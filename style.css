@@ -1,0 +1,121 @@
+body {
+    background-color: rgba(35, 100, 204, 0.603);
+}
+
+h1 {
+    font-family:'garamond', sans-serif;
+}
+
+.starter-template {
+  padding: 40px 15px;
+  text-align: center;
+}
+
+img {
+    max-width: 100%;
+}
+
+p {
+    text-indent: 10px;
+    font-family:'garamond', sans-serif;
+}
+
+ul {
+    font-family:'garamond', sans-serif;
+}
+
+.row {
+    width: 100%;
+    margin-left: 0;
+}
+
+.col {
+  margin-left: 10px;
+  margin-right: 10px;
+}
+
+.marginAdd {
+    display: none;
+    font-family:'garamond', sans-serif;
+}
+
+.mirador-canvas-nav {
+    display: none !important;
+}
+
+.supraAdd {
+    vertical-align: super;
+    font-size: smaller;
+}
+
+.underline {
+    text-decoration: underline;
+}
+
+.note {
+    display: none;
+}
+
+.hidden-deletion {
+    visibility: hidden;
+}
+
+.index {
+    display: inline-block;
+    padding: 10px 20px;
+    background-color: rgb(0, 0, 0);
+    color: white;
+    text-decoration: none;
+    border-radius: 5px;
+    font-family:'garamond', sans-serif; 
+}
+
+.first {
+    display: inline-block;
+    padding: 10px 20px;
+    background-color: rgb(21, 3, 82);
+    color: white;
+    text-decoration: none;
+    border-radius: 5px; 
+    font-family:'garamond', sans-serif;
+}
+
+.previous {
+    display: inline-block;
+    padding: 10px 20px;
+    background-color: rgb(12, 4, 105);
+    color: white;
+    text-decoration: none;
+    border-radius: 5px; 
+    font-family:'garamond', sans-serif;
+}
+
+.next {
+    display: inline-block;
+    padding: 10px 20px;
+    background-color: rgb(30, 3, 150);
+    color: white;
+    text-decoration: none;
+    border-radius: 5px; 
+    font-family:'garamond', sans-serif;
+}
+
+.last {
+    display: inline-block;
+    padding: 10px 20px;
+    background-color: rgb(13, 4, 180);
+    color: white;
+    text-decoration: none;
+    border-radius: 5px; 
+    font-family:'garamond', sans-serif;
+}
+
+button {
+    display: inline-block;
+    padding: 10px 20px;
+    background-color: rgb(5, 80, 178);
+    color: white;
+    text-decoration: none;
+    border-radius: 5px; 
+    font-family:'garamond', sans-serif;
+}
